@@ -24,5 +24,4 @@ int main() {
 
     cout << "A soma dos elementos ímpares é " << soma << endl;
     return 0;
-
 }
