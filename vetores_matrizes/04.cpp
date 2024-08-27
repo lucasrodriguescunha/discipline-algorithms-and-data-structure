@@ -1,4 +1,4 @@
-// 4- Escreva um programa que faça a leitura de valores inteiros positivos para uma variável composta contendo
+// 4 - Escreva um programa que faça a leitura de valores inteiros positivos para uma variável composta contendo
 // até 10  elementos. O usuário deve informar quantos elementos serão inseridos no programa. Calcule e escreva:
 
 // 1. Os 2 maiores elementos
