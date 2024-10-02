@@ -1,0 +1,3 @@
+C:/Users/Lucas/Downloads/PilhaEstatica/PilhaEstatica/cmake-build-debug/CMakeFiles/PilhaEstatica.dir
+C:/Users/Lucas/Downloads/PilhaEstatica/PilhaEstatica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/Downloads/PilhaEstatica/PilhaEstatica/cmake-build-debug/CMakeFiles/rebuild_cache.dir

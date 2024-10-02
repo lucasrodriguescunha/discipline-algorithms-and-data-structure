@@ -1,0 +1,23 @@
+# ninja log v6
+15	88	7491013874482034	CMakeFiles/PilhaEstatica.dir/Pilha.cpp.obj	1f0ba6316e327336
+18	330	7491582212814405	CMakeFiles/PilhaEstatica.dir/main.cpp.obj	519373039813ea46
+331	410	7491582215944393	PilhaEstatica.exe	6da9231a0bb4dbc
+40	524	7496028499804500	build.ninja	7941c4e33197d3ad
+26	459	7496028792462502	CMakeFiles/PilhaEstatica.dir/pilha.cpp.obj	c887b17c6a63f819
+17	460	7496028792372506	CMakeFiles/PilhaEstatica.dir/main.cpp.obj	519373039813ea46
+22	461	7496028792422493	CMakeFiles/PilhaEstatica.dir/fila.cpp.obj	2bb16c32cc09c68b
+461	681	7496028796805531	PilhaEstatica.exe	e8fc83b7bc26ec8c
+16	552	7496029298950161	CMakeFiles/PilhaEstatica.dir/main.cpp.obj	519373039813ea46
+553	647	7496029304316531	PilhaEstatica.exe	e8fc83b7bc26ec8c
+16	306	7496029466731918	CMakeFiles/PilhaEstatica.dir/main.cpp.obj	519373039813ea46
+306	384	7496029469627674	PilhaEstatica.exe	e8fc83b7bc26ec8c
+16	297	7496029836469905	CMakeFiles/PilhaEstatica.dir/main.cpp.obj	519373039813ea46
+298	376	7496029839285641	PilhaEstatica.exe	e8fc83b7bc26ec8c
+18	306	7496030084996449	CMakeFiles/PilhaEstatica.dir/main.cpp.obj	519373039813ea46
+307	389	7496030087887010	PilhaEstatica.exe	e8fc83b7bc26ec8c
+7	315	7496030791471185	CMakeFiles/PilhaEstatica.dir/main.cpp.obj	519373039813ea46
+316	396	7496030794562506	PilhaEstatica.exe	e8fc83b7bc26ec8c
+17	309	7496030911485411	CMakeFiles/PilhaEstatica.dir/main.cpp.obj	519373039813ea46
+309	390	7496030914407071	PilhaEstatica.exe	e8fc83b7bc26ec8c
+17	299	7496031101769137	CMakeFiles/PilhaEstatica.dir/main.cpp.obj	519373039813ea46
+299	375	7496031104597974	PilhaEstatica.exe	e8fc83b7bc26ec8c
