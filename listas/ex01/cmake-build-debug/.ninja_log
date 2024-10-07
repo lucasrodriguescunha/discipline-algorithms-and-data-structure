@@ -1,0 +1,6 @@
+# ninja log v6
+1	501	7500450152309583	CMakeFiles/listas.dir/main.cpp.obj	8d535ea4bc8b01bd
+7	504	7500450152369594	CMakeFiles/listas.dir/Lista.cpp.obj	4c9dcd50064a4b5
+504	628	7500450157335501	listas.exe	b921b42765b331fd
+34	930	7500450859558665	CMakeFiles/listas.dir/main.cpp.obj	8d535ea4bc8b01bd
+931	1098	7500450868530993	listas.exe	b921b42765b331fd
