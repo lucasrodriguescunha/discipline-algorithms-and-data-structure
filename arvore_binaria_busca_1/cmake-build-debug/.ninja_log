@@ -1,0 +1,10 @@
+# ninja log v6
+9	290	7508307882205686	CMakeFiles/ArvoreBinariaBusca.dir/main.cpp.obj	60a83ec0857e5899
+4	398	7508307882155040	CMakeFiles/ArvoreBinariaBusca.dir/ArvoreBinariaBusca.cpp.obj	54aea7d1aab503f4
+398	565	7508307886085490	ArvoreBinariaBusca.exe	eb899b5b304ec068
+11	295	7508313853521575	CMakeFiles/ArvoreBinariaBusca.dir/main.cpp.obj	60a83ec0857e5899
+7	399	7508313853481583	CMakeFiles/ArvoreBinariaBusca.dir/ArvoreBinariaBusca.cpp.obj	54aea7d1aab503f4
+399	480	7508313857401586	ArvoreBinariaBusca.exe	eb899b5b304ec068
+24	323	7508314936030977	CMakeFiles/ArvoreBinariaBusca.dir/main.cpp.obj	60a83ec0857e5899
+19	424	7508314935980361	CMakeFiles/ArvoreBinariaBusca.dir/ArvoreBinariaBusca.cpp.obj	54aea7d1aab503f4
+424	512	7508314940030833	ArvoreBinariaBusca.exe	eb899b5b304ec068

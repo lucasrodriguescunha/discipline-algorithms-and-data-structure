@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ArvoreBinariaBusca",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ArvoreBinariaBusca::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ArvoreBinariaBusca-Debug-2eb14249a4a7a00ac7be.json",
+					"name" : "ArvoreBinariaBusca",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Lucas/Downloads/ArvoreBinariaBusca/ArvoreBinariaBusca/cmake-build-debug",
+		"source" : "C:/Users/Lucas/Downloads/ArvoreBinariaBusca/ArvoreBinariaBusca"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
